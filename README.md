@@ -9,7 +9,7 @@ A meteorological station was installed to monitor the climate, and after process
 
 Since these atypical behaviors couldn't be directly linked to ENSO phenomena, other variables were reviewed. It was found that radiation was higher in the second half of the year, vapor pressure followed a similar decadal trend, relative humidity was high in the middle of the year and low at the end, and wind speed was lower compared to its decadal trend (Figure 4).
 
-These findings highlight how a set of variables evolves over time, emphasizing the ecosystem's vulnerability to small actions. Consequently, projections for 2024 and 2025 were generated using two methods: a Blackbox approach adjusting only some parameters (figure 5) and Deep Learning building a model part by part (Figure 6). Both models yielded similar projections, with a prolongation of the patterns described in Figure 4 (Figure 7). 
+These findings highlight how a set of variables evolves over time, emphasizing the ecosystem's vulnerability to small actions. Consequently, projections for 2024 and 2025 were generated using two methods: a Blackbox approach adjusting only some parameters (figure 5) and Deep Learning building a model part by part (Figure 6). Both models yielded similar projections, with a prolongation of the patterns described in Figure 4 (see figures 5 and 6).  Figure 7 was created to show this similarity between models using average, maximum and minimum temperatures.
 
 Figure 8 compares the behavior of average temperature and precipitation at "Heartland" with its 2021-2040 projection according to a GCM (Global Climaate Model), validating and giving support "in a certain way" to those projections of Figures 5 and 6.
 
@@ -20,7 +20,6 @@ Now that we know how “alleged” human action can lead to significant changes,
 
 <img src="img/HL.gif" width="100%">
 
-_Separate figures are attached to the "img" folder in the repository!_
 
 
 <div style="text-align: justify">
