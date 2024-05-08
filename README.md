@@ -60,7 +60,7 @@ And remember, change isn't always bad. Sometimes, it's a chance to make things b
 
 <div align="right">
 
-### _**- 4semsesdev**_
+### _**- 4sensesdev**_
 
 </div>
 
