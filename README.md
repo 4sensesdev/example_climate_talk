@@ -28,7 +28,7 @@ Now that we know how “alleged” human action can lead to significant changes,
 
 
 **This is a small sample of the application of data processing and data science techniques such as:**
-1.  Data capture.
+1.  Data capture
 2. Cleaning and handling of outlier data
 3. Matrix Operations
 4. Data Visualization
